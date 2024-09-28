@@ -1,2 +1,2 @@
 # Test-PC
-[Click here]()
+[Click here](https://chathamhung.github.io/Test-PC/)
